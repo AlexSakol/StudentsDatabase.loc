@@ -1,0 +1,39 @@
+div{   
+    width: 40vw;  
+    margin:auto;
+    
+}
+
+input{
+    width: 95%;    
+}
+
+.radiobox{
+    width: 5%;
+}   
+
+.button{
+   background-color: cornflowerblue;
+   border-radius: 10%;
+   border: none;
+   width: 100%;   
+}
+
+.student_table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center; 
+}
+
+.student_table tr td{
+    border: 1px solid black;
+}
+
+.student_table tr th{
+    border: 1px solid black;
+}
+
+p{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
